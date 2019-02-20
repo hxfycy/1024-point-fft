@@ -1,5 +1,5 @@
 # 1024-point-fft
-    This module is a simple Radix-4 1024 point fft in verilog designed by xiaofeng hu in Hust,Dec.,2018.     
+    This is a Radix-4 1024 point fft module in verilog designed by xiaofeng hu in Hust,Dec.,2018.     
     
     This design uses Vivado 2017.4 IP Core- BRAM Generator to generate BRAM and BROM, The BROM initialization file is included in the root directory.   
     
