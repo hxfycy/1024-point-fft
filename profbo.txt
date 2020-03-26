@@ -1,0 +1,7 @@
+
+1. EDA
+2. Design-Circuits, Transistor,——Circuits system design, 
+3. Computer Architecture, CPU,GPU
+4. Based on Algorithm,
+5. FPGA, Small Topic
+6. 
